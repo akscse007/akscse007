@@ -1,53 +1,48 @@
+<div align="center">
+
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Akash Roy
 
-<h3 align="center">
-AI Engineer • Full Stack Developer • Machine Learning Enthusiast
-</h3>
+### AI Engineer • Full Stack Developer • Machine Learning Enthusiast
 
-<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence;Machine+Learning;Generative+AI;RAG+Systems;Full+Stack+Developer;Financial+AI;Building+Production+Ready+Applications"/>
 
-Building intelligent systems powered by
-Machine Learning,
-Generative AI,
-LLMs,
-RAG,
-and Full Stack Engineering.
-
+<p>
+Building intelligent systems powered by <b>Machine Learning</b>,
+<b>Large Language Models</b>,
+<b>Retrieval-Augmented Generation</b>,
+<b>Agentic AI</b>, and
+<b>Full Stack Engineering</b>.
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=akscse007&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
+
 ---
+
+<div align="center">
 
 ## 🚀 About Me
 
-🎓 PG B.Tech Computer Science & Engineering
+🎓 **PG B.Tech in Computer Science & Engineering**  
 University of Calcutta
 
-🧠 Mathematics Graduate
+🧠 **Mathematics Graduate**
 
-💼 Project Manager & Full Stack Developer
+💼 **Project Manager & Full Stack Developer**  
 Institute Innovation Council (IIC)
 
-🤖 Passionate about
+🤖 **Areas of Interest**
 
-• Artificial Intelligence
+Artificial Intelligence • Machine Learning • LLMs • RAG • Agentic AI • Financial AI • Quantitative Finance
 
-• Machine Learning
-
-• Large Language Models
-
-• RAG Systems
-
-• Agentic AI
-
-• Financial AI
-
-• Quantitative Finance
+</div>
 
 ---
 
-## 🌐 Connect With Me
+<div align="center">
 
-<p align="center">
+## 🌐 Connect With Me
 
 <a href="mailto:roy.akashcucse@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -61,140 +56,113 @@ Institute Innovation Council (IIC)
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-</p>
+</div>
 
 ---
+
+<div align="center">
 
 # 💻 Tech Stack
-# Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 
-# AI / ML
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
-![LangChain](https://img.shields.io/badge/LangChain-121D33?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-0A0A0A?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-7B3FF2?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
-![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google)
+### Languages
 
-# Frontend
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-black?style=for-the-badge&logo=socketdotio)
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,c" />
 
-# Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
-![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge)
+### Frontend
 
-# DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite" />
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+### Backend
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+### Databases
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase" />
 
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+### AI / ML
 
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge)
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,tensorflow,sklearn,pandas,numpy,docker,git,linux,postman,vercel" />
 
-# Featured Work
-## 🧠 QA-FORGE
+<br><br>
 
-AI-powered Requirement Analysis & Test Case Generation Platform
+<img src="https://img.shields.io/badge/LangChain-121D33?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ChromaDB-7B3FF2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai"/>
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google"/>
 
-• Retrieval-Augmented Generation (RAG)
-
-• LangGraph Workflow Orchestration
-
-• ChromaDB Vector Search
-
-• FastAPI Backend
-
-• Dockerized Architecture
-
-• LLM-powered Test Design
+</div>
 
 ---
 
-## 💰 SMARTSPEND AI
+<div align="center">
 
-Intelligent Financial Planning Platform
+# 🚀 Featured Work
 
-• Expense Categorization
+| Project | Description |
+|---------|-------------|
+| 🧠 **QA-FORGE** | AI-powered Test Case Generation Platform using **RAG, LangGraph, ChromaDB, FastAPI & LLMs** |
+| 💰 **SMARTSPEND AI** | Financial Planning Platform powered by **Regression, xLSTM & Predictive Analytics** |
+| 💬 **CHATTER** | MERN Real-Time Communication Platform with **Socket.IO & JWT Authentication** |
+| 📚 **DIGILIB** | Enterprise Library Management System with **Role-Based Access Control & MERN Stack** |
 
-• Regression Forecasting
-
-• xLSTM Time Series Prediction
-
-• Wishlist Goal Tracking
-
-• Predictive Analytics
-
----
-
-## 💬 CHATTER
-
-Real-Time Communication Platform
-
-• Socket.IO
-
-• Event Driven Architecture
-
-• JWT Authentication
-
-• MongoDB
-
-• MERN Stack
+</div>
 
 ---
 
-## 📚 DIGILIB
+<div align="center">
 
-Enterprise Library Management System
+# 📊 GitHub Analytics
 
-• Multi-role Authentication
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=akscse007&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-• Inventory Management
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=akscse007&theme=tokyonight&hide_border=true"/>
 
-• Procurement
+<br><br>
 
-• Book Circulation
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=akscse007&theme=tokyo-night"/>
 
-• MERN Stack
+<br><br>
 
-# GitHub Stats
-<p align="center">
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akscse007&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=akscse007&show_icons=true&theme=tokyonight"/>
+</div>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=akscse007&theme=tokyonight"/>
+---
 
-</p>
+<div align="center">
 
-<p align="center">
+# 🏆 GitHub Trophies
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akscse007&theme=tokyo-night"/>
+<img src="https://github-profile-trophy.vercel.app/?username=akscse007&theme=tokyonight&row=1&column=7"/>
 
-</p>
+</div>
 
-<p align="center">
+---
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akscse007&theme=tokyonight"/>
+<div align="center">
 
-</p>
+# 🌱 Currently Exploring
+
+**Multi-Agent AI** • **Advanced RAG** • **LLM Fine-Tuning** • **Financial AI** • **MCP** • **Agentic Workflows**
+
+</div>
+
+---
+
+<div align="center">
+
+## 💭 Quote
+
+> **"Transforming mathematical thinking into intelligent software systems through AI."**
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
