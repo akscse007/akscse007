@@ -84,8 +84,7 @@
 <br>
 
 <div align="center">
-  <h2>🏆 Trophies & Contributions</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=akscse007&theme=tokyonight&row=1&column=7&margin-w=15&no-bg=true" />
+  <h2>
   <br><br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akscse007/akscse007/output/github-contribution-grid-snake-dark.svg">
