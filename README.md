@@ -39,25 +39,41 @@
 <div align="center">
   <h2>💻 Premium Tech Arsenal</h2>
   
-  <code>Languages</code><br>
-  <img src="https://skillicons.dev/icons?i=python,ts,js,java,c" /><br><br>
+  <h3>Core Languages</h3>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=python,ts,js,java,c&theme=dark" alt="Core Languages" />
+    </a>
+  </p>
   
-  <code></code><br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,fastapi" /><br><br>
+  <h3>Frontend & Backend Architecture</h3>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,fastapi&theme=dark" alt="Frontend and Backend" />
+    </a>
+  </p>
   
-  <code></code><br>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,docker,linux,vercel" /><br><br>
+  <h3>Database & Cloud Infrastructure</h3>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,docker,linux,vercel&theme=dark" alt="Databases and Cloud" />
+    </a>
+  </p>
   
-  <code>AI /</code><br>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
-  <br><br>
-  <img src="https://img.shields.io/badge/LangChain-121D33?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ChromaDB-7B3FF2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai"/>
-  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google"/>
+  <h3>AI & Machine Learning Ecosystem</h3>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="AI and ML Frameworks" />
+    </a>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/LangChain-121D33?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/ChromaDB-7B3FF2?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai"/>
+    <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google"/>
+  </p>
 </div>
-
 <br>
 
 <div align="center">
