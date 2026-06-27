@@ -42,13 +42,13 @@
   <code>Languages</code><br>
   <img src="https://skillicons.dev/icons?i=python,ts,js,java,c" /><br><br>
   
-  <code>Frontend & Backend Architecture</code><br>
+  <code></code><br>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,fastapi" /><br><br>
   
-  <code>Database & Cloud Infrastructure</code><br>
+  <code></code><br>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,docker,linux,vercel" /><br><br>
   
-  <code>AI / Machine Learning Ecosystem</code><br>
+  <code>AI /</code><br>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
   <br><br>
   <img src="https://img.shields.io/badge/LangChain-121D33?style=for-the-badge"/>
