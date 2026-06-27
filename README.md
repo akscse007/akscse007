@@ -26,12 +26,24 @@
 <br>
 
 <div align="center">
-  <h2>🚀 Executive Summary</h2>
-  <p align="center">
-    🎓 <b>PG B.Tech in Computer Science & Engineering</b> (University of Calcutta) &nbsp;•&nbsp; 🧠 <b>Mathematics Graduate</b><br>
-    💼 <b>Project Manager & Full Stack Developer</b> @ Institute Innovation Council (IIC)<br>
-    🌱 <b>Currently Architecting:</b> Multi-Agent AI • Advanced RAG • LLM Fine-Tuning • Financial AI • MCP
+  <!-- Dynamic Executive Summary Header (Cyan) -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=4000&pause=2000&color=00C2FF&center=true&vCenter=true&width=500&lines=EXECUTIVE+SUMMARY" alt="Executive Summary" />
+  <br><br>
+
+  <p align="center" style="font-size: 16px;">
+    🎓 <b>PG B.Tech in Computer Science & Engineering</b> (University of Calcutta) &nbsp;•&nbsp; 🧠 <b>B.Sc. in Mathematics</b><br>
+    💼 <b>Project Manager & Full Stack Developer</b> @ Institute Innovation Council (IIC)
   </p>
+  
+  <br>
+
+  <blockquote>
+    <p align="center">
+      🌱 <b>Currently Architecting:</b><br>
+      Multi-Agent AI • Advanced RAG • LLM Fine-Tuning • MCP <br>
+      Institutional-Grade Quantitative Systems • Distributed Architectures
+    </p>
+  </blockquote>
 </div>
 
 <br>
