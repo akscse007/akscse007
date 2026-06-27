@@ -37,30 +37,40 @@
 <br>
 
 <div align="center">
-  <h2>💻 Premium Tech Arsenal</h2>
   
-  <h3>Core Languages</h3>
+  <!-- Main Dynamic Heading -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=30&duration=4000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=GLOBAL+AI+FRAMEWORK;PREMIUM+TECH+ARSENAL" alt="Global AI Framework" />
+  <br><br>
+  
+  <!-- Neural Languages (Cyan) -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=4000&pause=2000&color=00FFFF&center=true&vCenter=true&width=400&lines=NEURAL+LANGUAGES" alt="Neural Languages" />
   <p>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=python,ts,js,java,c&theme=dark" alt="Core Languages" />
     </a>
   </p>
+  <br>
   
-  <h3>Frontend & Backend Architecture</h3>
+  <!-- Full-Stack Architecture (Neon Purple/Magenta) -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=4000&pause=2000&color=B026FF&center=true&vCenter=true&width=500&lines=FULL-STACK+ARCHITECTURE" alt="Full-Stack Architecture" />
   <p>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,fastapi&theme=dark" alt="Frontend and Backend" />
     </a>
   </p>
+  <br>
   
-  <h3>Database & Cloud Infrastructure</h3>
+  <!-- Scalable Foundations (Neon Green) -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=4000&pause=2000&color=00FF7F&center=true&vCenter=true&width=500&lines=SCALABLE+FOUNDATIONS" alt="Scalable Foundations" />
   <p>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,docker,linux,vercel&theme=dark" alt="Databases and Cloud" />
     </a>
   </p>
+  <br>
   
-  <h3>AI & Machine Learning Ecosystem</h3>
+  <!-- Cognitive Frameworks (Neon Pink) -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=4000&pause=2000&color=FF00FF&center=true&vCenter=true&width=500&lines=COGNITIVE+FRAMEWORKS" alt="Cognitive Frameworks" />
   <p>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="AI and ML Frameworks" />
