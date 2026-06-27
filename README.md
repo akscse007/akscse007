@@ -142,8 +142,27 @@
 <br>
 
 <div align="center">
-  <h2>🏆 Trophies & Achievements</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=akscse007&theme=tokyonight&row=1&column=7&margin-w=15&no-bg=true" />
+  <!-- Glowing Gold Dynamic Header -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=4000&pause=2000&color=FFD700&center=true&vCenter=true&width=600&lines=ACHIEVEMENTS+%26+MILESTONES" alt="Achievements & Milestones" />
+  <br><br>
+
+  <!-- Premium Achievement Grid -->
+  <table bordercolor="#0D1117">
+    <tr>
+      <td width="33%" align="center">
+        <h3>🥇 Leadership & Dev</h3>
+        <p><b>Project Manager & Full Stack Dev</b><br><i>Institute Innovation Council (IIC)</i></p>
+      </td>
+      <td width="33%" align="center">
+        <h3>🎓 Academic Excellence</h3>
+        <p><b>PG B.Tech in CS & Eng.</b><br><i>University of Calcutta (Math Graduate)</i></p>
+      </td>
+      <td width="33%" align="center">
+        <h3>📈 Domain Expertise</h3>
+        <p><b>Quantitative Trading & AI</b><br><i>Institutional-Grade System Design</i></p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
