@@ -151,7 +151,7 @@
     <tr>
       <td width="33%" align="center">
         <h3>🥇 Leadership & Dev</h3>
-        <p><b>Project Manager & Full Stack Dev</b><br><i>Institute Innovation Council (IIC)</i></p>
+        <p><b>Project Manager</b><br><i>@ Institute Innovation Council (IIC)</i></p>
       </td>
       <td width="33%" align="center">
         <h3>🎓 Academic Excellence</h3>
