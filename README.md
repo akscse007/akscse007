@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00C2FF&height=120&section=header&fontSize=40&fontAlignY=35&descAlignY=55&descAlign=40"/>
 
-  <!-- SNAKE WIDGET AT THE TOP -->
+  <!-- SNAKE WIDGET AT THE TOP sx-->
   <!-- Note: This uses a demo URL so it renders instantly. To use your own, you must set up the Platane/snk GitHub Action in your profile repo. -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
